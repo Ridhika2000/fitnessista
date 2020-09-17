@@ -1,15 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Bubblegum+Sans|Caveat+Brush|Chewy|Lobster+Two');
 body{
 text-align: center;
 }
 .tallest{
   letter-spacing: 1px;
     color: white !important;
-    font-family: 'Lobster Two', cursive;
+    font-family: sans-serif;
+    font-weight: bold;
     padding: 28px 28px;
     font-size:32px;
     text-align: left;
-    padding-left: 254px;
+    padding-left: 255px;
+    cursor: pointer;
 }
 
 li.dropdown {
@@ -159,6 +160,7 @@ li.dropdown {
   color:white;
   border: #b452ff;
   font-weight: bold;
+  cursor: pointer;
 }
 .butto{
   margin-top:18px;
